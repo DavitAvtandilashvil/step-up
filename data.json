@@ -1,0 +1,26 @@
+[
+  {
+    "shoe": "/assets/shoes/shoe-1.webp",
+    "price": 110
+  },
+  {
+    "shoe": "/assets/shoes/shoe-2.webp",
+    "price": 100
+  },
+  {
+    "shoe": "/assets/shoes/shoe-3.avif",
+    "price": 125
+  },
+  {
+    "shoe": "/assets/shoes/shoe-4.webp",
+    "price": 150
+  },
+  {
+    "shoe": "/assets/shoes/shoe-5.avif",
+    "price": 90
+  },
+  {
+    "shoe": "/assets/shoes/shoe-6.webp",
+    "price": 110
+  }
+]
